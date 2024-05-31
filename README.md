@@ -16,5 +16,5 @@ docker push espinosa1991/legolilypadsd15:0.0.3
 ## To run your worklow at lilypad
 ```bash
 export WEB3_PRIVATE_KEY=<walletprivatekey>
-lilypad run <this github repo:realease tag> -i Prompt="an astronaut floating against a white background
+lilypad run github.com/lucasespinosa28/legolilypad:0.01 -i Prompt="an astronaut floating against a white background
 ```
